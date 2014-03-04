@@ -111,7 +111,8 @@
       <MergedIDLBaseFileName>SimpleProfiler.idl</MergedIDLBaseFileName>
     </Link>
     <PostBuildEvent>
-      <Command>$(SystemRoot)\system32\regsvr32 /s "$(OutDir)$(TargetFileName)"</Command>
+      <Command>
+      </Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -177,7 +178,10 @@
     <ClCompile Include="Tracing.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="GlobalStaticCallbacks.x64.asm" />
+    <MASM Include="GlobalStaticCallbacks.x64.asm">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </MASM>
     <None Include="SimpleProfiler.rgs" />
   </ItemGroup>
   <ItemGroup>

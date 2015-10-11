@@ -1,0 +1,6 @@
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\TestApp\bin\Debug\TestApp.exe.config
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\TestApp\bin\Debug\TestApp.exe
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\TestApp\bin\Debug\TestApp.pdb
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\TestApp\obj\Debug\TestApp.exe
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\TestApp\obj\Debug\TestApp.pdb
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+import "C:\Program Files (x86)\Windows Kits\8.1\Include\um\corsym.idl";
+import "C:\Program Files (x86)\Windows Kits\8.1\Include\um\corprof.idl";
+
+
+[ version(1.0), uuid(6F2AC9B8-C576-448C-B0F7-7D5A765B816D), helpstring("Simple Profiler Library") ]
+library SimpleProfilerHost
+{
+	importlib("stdole2.tlb");
+	importlib("olepro32.dll");
+
+	[
+		version(1.0),
+		uuid(68130646-C19E-459E-8BF4-5137ED7B3FD7),
+		helpstring("Simple CLR Profiler class")
+	] 
+#line 42 "d:\\ms\\git\\simpleclrprofiler\\simpleprofiler\\simpleprofiler\\csimpleprofiler.h"
+	coclass CSimpleProfiler {
+		[default] interface IUnknown;
+	};
+
+}
+

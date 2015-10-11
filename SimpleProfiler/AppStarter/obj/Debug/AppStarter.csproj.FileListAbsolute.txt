@@ -1,0 +1,8 @@
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\x64\Debug\AppStarter.exe.config
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\x64\Debug\AppStarter.exe
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\x64\Debug\AppStarter.pdb
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\AppStarter\obj\Debug\AppStarter.MainForm.resources
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\AppStarter\obj\Debug\AppStarter.Properties.Resources.resources
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\AppStarter\obj\Debug\AppStarter.csproj.GenerateResource.Cache
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\AppStarter\obj\Debug\AppStarter.exe
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\AppStarter\obj\Debug\AppStarter.pdb

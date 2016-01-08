@@ -6,3 +6,4 @@ D:\MS\git\SimpleCLRProfiler\SimpleProfiler\AppStarter\obj\Debug\AppStarter.Prope
 D:\MS\git\SimpleCLRProfiler\SimpleProfiler\AppStarter\obj\Debug\AppStarter.csproj.GenerateResource.Cache
 D:\MS\git\SimpleCLRProfiler\SimpleProfiler\AppStarter\obj\Debug\AppStarter.exe
 D:\MS\git\SimpleCLRProfiler\SimpleProfiler\AppStarter\obj\Debug\AppStarter.pdb
+D:\MS\git\SimpleCLRProfiler\SimpleProfiler\AppStarter\obj\Debug\AppStarter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+originalTradeUnitID  - UnitTradeEntity.OriginalTradeId
+tradeType -  (TradeType is from AFS_UnitTrades. We may want to add this field EquityOrderRepository.GetAccountOrdersByStatus)
+hasPartialTrades -- Ignore? 
+orderID - EquityOrder.OrderId
+tradeID - UnitTradeEntity.TradeId
+tradeSettlementDate - UnitTradeEntity.SettlementDate
+tradePriceDate - (TradePriceDate is from AFS_UnitTrades) 
+tradeFinalPrice - UnitTradeEntity.FinalPrice
+tradeStatus - UnitTradeEntity.Status
+cumulativeFilledUnits - OrderAllocation.CumulativeFilledUnits  (unitTradeSumary)
+averageFilledPrice - In legacy code, unitTradeSumary has this field.
+memberCost
+stampduty
+standardCharges
+cumulativeUnitsFilledSoFar
+initialCharge
+exitCharge
+ptmCharge
+dilutionLevy
+
+
+existingTransactionXO As XO.TransactionClass
